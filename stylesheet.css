@@ -1,0 +1,118 @@
+* {
+	margin: 0;
+	padding: 0;
+
+}
+
+body { 
+	background: url('guitar2.jfif') no-repeat center center fixed;
+	background-repeat: no-repeat;
+	-webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+
+
+
+#block1 {
+	font-family: Verdana;
+	
+	text-align: center;
+	
+	width:800px;
+	margin:0 auto;
+	margin-top:60px;
+	padding:20px;
+	color: #9BBB59;
+}
+
+.name {
+	font-size: 70px;
+
+}
+
+#block2 {
+	font-family: Helvetica, sans-serif;
+	text-align: center;
+	border:3px solid black;
+	width:960px;
+	height: 300px;
+	margin:0 auto;
+	margin-top:40px;
+	padding:20px;
+	background: white;
+	color: #9BBB59;
+}
+
+a {
+	color:white;
+}
+
+
+
+#work_pic {
+	width: 400px;
+	height: 300px;
+	float: left;
+	margin-right: 20px;
+
+	
+
+    -ms-transform: rotate(180deg); /* IE 9 */
+    -webkit-transform: rotate(180deg); /* Chrome, Safari, Opera */
+    transform: rotate(180deg);
+
+
+
+}
+
+#block3 {
+	font-family: Arial, Helvetica, sans-serif;
+	text-align: center;
+	border:3px solid black;
+	width:1000px;
+	height: 500px;
+	margin:0 auto;
+	margin-top:40px;
+	
+	color: #4F81BD;
+}
+
+#work_image {
+	margin: 0 auto;
+	float:center;
+	width:999px;
+	height: 498px;
+}
+
+#block4 {
+	font-family: Arial, Helvetica, sans-serif;
+	text-align: center;
+	border:3px solid black;
+	width:1000px;
+	height: 200px;
+	margin:0 auto;
+	margin-top:40px;
+	background: url('transparent_white.png') top left repeat;
+	color: #9BBB59;
+}
+
+#block5 {
+	font-family: Arial, Helvetica, sans-serif;
+	text-align: center;
+	color: #9BBB59; 	/* #4F81BD */
+}
+
+img {
+	border:1px solid black;
+}
+
+form {
+	text-align: center;
+	margin: 0 auto;
+	width: 500px;
+	margin-top: 5px;
+}
+
